@@ -1,0 +1,3 @@
+[run]
+source = quact
+omit = quact/test*
